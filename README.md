@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Grup 68
+Oyun ve Uygulama Akademisi Grup 68
 
 # Ürün İle İlgili Bilgiler
 
@@ -14,23 +14,29 @@ Grup 68
 
 ## Ürün İsmi
 
---Project--
+PROJECT: ARES
 
 ## Ürün Açıklaması
 
-- N/A
+Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. Oyuncular Mars'ta hayatta kalmaya çalışırken gezegeni keşfedip kaçış yolu bulmaya çalışacaktır.
 
 ## Ürün Özellikleri
 
-- N/A
+- 3 Boyutlu
+- Loot sistemi
+- Çeşitli düşmanlar
+- Farklı oynayış tarzları
+- Yardımcı robot
 
 ## Hedef Kitle
 
-- N/A
+- Mobil oyuncular
+- 15-40 yaş arası oyuncular
+- Macera oyunu sevenler
 
 ## Product Backlog URL
 
-N/A
+https://trello.com/b/HVViR8qn
 
 ---
 
@@ -55,7 +61,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   N/A
 
 - **Sprint Review**: 
-Alınan kararlar: N/A
+Alınan kararlar:
 
 - **Sprint Retrospective:**
   - N/A
