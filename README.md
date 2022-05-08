@@ -64,7 +64,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları ile kararları google dokümanlarda tutulmuştur. https://docs.google.com/document/d/1Xd2u01FCQR_5d0tfPMfEaaYxw9erI9vpqWATP8rybZI/edit?usp=sharing
 
 - **Sprint Retrospective:**
-  ![image](https://user-images.githubusercontent.com/37614581/167314076-40c21984-15ce-4316-9c2d-fa6497265784.png)
+ 
 
 
 -**Diğer Notlar**:
