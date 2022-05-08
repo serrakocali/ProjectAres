@@ -65,6 +65,7 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 
 - **Sprint Retrospective:**
  
+![trellosprite1](https://user-images.githubusercontent.com/37614581/167314351-2e9e0b07-d1d6-47e6-b93d-9b2cf2a13ef7.png)
 
 
 -**Diğer Notlar**:
