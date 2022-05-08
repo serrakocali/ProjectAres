@@ -49,8 +49,7 @@ https://trello.com/b/HVViR8qn
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da görevler altı ana başlığa bölünmüştür Oyun konusu (Yeşil), tasarım (sarı), story (turuuncu), kodlama(kırmızı), müzik(pembe), test (mor)  renk ile temsil etmektedir.
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da görevler altı ana başlığa bölünmüştür. Oyun konusu (Yeşil), tasarım (sarı), story (turuuncu), kodlama(kırmızı), müzik(pembe), test (mor)  renk ile temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği google dökuman link olarak paylaşılmıştır. https://docs.google.com/document/d/1MzJPbayNo_AKPXtY3SctC5g-AS95NMIAFCs2JmykDjY/edit?usp=sharing 
 
