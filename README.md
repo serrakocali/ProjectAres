@@ -52,27 +52,23 @@ https://trello.com/b/HVViR8qn
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: N/A
+- **Daily Scrum**: Daily Scrum toplantılarının Discord ve whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği google dökuman link olarak paylaşılmıştır. https://docs.google.com/document/d/1MzJPbayNo_AKPXtY3SctC5g-AS95NMIAFCs2JmykDjY/edit?usp=sharing 
 
 - **Sprint board update**: Sprint board screenshotları: 
-  N/A
+  
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  N/A
+- **Ürün Durumu**: Ekran görüntüleri: https://www.youtube.com/watch?v=dvnDMmFT-ag  
+  
 
 - **Sprint Review**: 
-Alınan kararlar:
+Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları ile kararları google dokümanlarda tutulmuştur. https://docs.google.com/document/d/1Xd2u01FCQR_5d0tfPMfEaaYxw9erI9vpqWATP8rybZI/edit?usp=sharing
 
 - **Sprint Retrospective:**
   - N/A
 
 -**Diğer Notlar**:
-- N/A
 
----
 
-# Sprint 2
-- N/A
 
 ---
 
