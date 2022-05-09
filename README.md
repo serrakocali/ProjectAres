@@ -60,7 +60,9 @@ https://trello.com/b/HVViR8qn
 
 
 
-- **Ürün Durumu**: Ekran görüntüleri: https://www.youtube.com/watch?v=dvnDMmFT-ag  
+- **Ürün Durumu**: 
+- Hikaye: https://docs.google.com/document/d/1ZYgR8gZJKnhIHASaOSdAfAhn8IDZIPiv-IppHnp7_ow/edit?usp=sharing
+- Ekran görüntüleri: https://www.youtube.com/watch?v=dvnDMmFT-ag
 ![Ekran Görüntüsü (2)](https://user-images.githubusercontent.com/93132446/167314740-486a8419-2ad6-485e-9bd3-b6b7105a5fe1.png)
 ![Ekran Görüntüsü (3)](https://user-images.githubusercontent.com/93132446/167314741-1dbe4b53-4d01-4418-af7f-4201335115a5.png)
   
