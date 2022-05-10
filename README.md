@@ -58,7 +58,7 @@ Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. O
   
  
   
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 1 Sprint 120 , 2 spirite 150 ve 3 sprite 180 backlogdan oluşacaktır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 1. Sprint 120 , 2. Sprint 150 ve 3. Sprint 180 backlogdan oluşacaktır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da görevler altı ana başlığa bölünmüştür. Oyun konusu (Yeşil), tasarım (sarı), story (turuuncu), kodlama(kırmızı), müzik(pembe), test (mor)  renk ile temsil etmektedir.
