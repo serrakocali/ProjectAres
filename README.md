@@ -18,7 +18,7 @@ PROJECT: ARES
 
 ## Ürün Açıklaması
 
-Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. Oyuncular Mars'ta hayatta kalmaya çalışırken gezegeni keşfedip kaçış yolu bulmaya çalışacaktır.
+Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. Oyuncular Mars'ta hayatta kalmaya çalışırken gezegeni keşfedip kaçış yolu bulmaya çalışacaktır. Yarı açık dünyada karakter gezegeni keşfetmek için farklı elementlerle etkileşime geçebilecek, kendine hayatta kalmak için bir strateji belirleyebilecektir. Oyun oynanışı sırasında stealth ya da aksiyon ağırlıklı devam etmek oyuncunun kendi oynayış stiline bırakılmıştır. Oyuncu isterse kendine bir alan belirleyip hayatta kalması için gerekli bitkileri yetiştirebilecek isterse savaşçı bir göçebe olarak düşmanlarıyla karşılaşabilecektir. 
 
 ## Ürün Özellikleri
 
@@ -46,15 +46,15 @@ Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. O
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
-  Oyunun Konusunun Belirlenmesi -- 20 Puan 
-  Oyun İsminin Belirlenmesi  -- 5 Puan 
-  GitHub Repository Açılacak -- 5  Puan 
-  Oynun Örnek Hikayeler Yazılması  -- 30 Puan
-  Giriş Demosu Videosu Oluşturulması  -- 30 Puan 
-  Giriş demo ile örnek firt person scritpleri -- 10 Puan
-  Oyun hikayesine uygun görevler Belirlenmesi -- 10 Puan 
-  Konuya uygun low poly assetler Belirlenmesi  -- 10 Puan 
-  Hikayenin güncellenmesi ve görevler ile birleştirilmesi
+  - Oyunun Konusunun Belirlenmesi: 20 Puan (Tamamlandı)
+  - Oyun İsminin Belirlenmesi: 5 Puan (Tamamlandı)
+  - GitHub Repository Açılacak: 5  Puan (Tamamlandı)
+  - Oynun Örnek Hikayeler Yazılması: 30 Puan (Tamamlandı)
+  - Giriş Demosu Videosu Oluşturulması: 25 Puan (Tamamlandı)
+  - Giriş demo ile örnek firt person scritpleri: 10 Puan (Tamamlandı)
+  - Oyun hikayesine uygun görevler Belirlenmesi: 10 Puan (Tamamlandı)
+  - Konuya uygun low poly assetler Belirlenmesi: 5 Puan (Tamamlandı)
+  - Hikayenin güncellenmesi ve görevler ile birleştirilmesi: 10 Puan (Tamamlandı)
   
  
   
