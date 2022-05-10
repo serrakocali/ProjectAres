@@ -36,8 +36,8 @@ Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. O
 
 ## Product Backlog URL
 
-[1](https://trello.com/invite/b/HVViR8qn/12655a4920e5259e29b1896b2c25d4eb/project-mars)
-[2](https://trello.com/invite/b/eRTGbkXg/5405a50a836d07c208a07cae1ff255ff/grup-68)
+[1 Hikaye ](https://trello.com/invite/b/HVViR8qn/12655a4920e5259e29b1896b2c25d4eb/project-mars)
+[2 Hikaye ](https://trello.com/invite/b/eRTGbkXg/5405a50a836d07c208a07cae1ff255ff/grup-68)
 
 ---
 
@@ -46,8 +46,19 @@ Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. O
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
+  Oyunun Konusunun Belirlenmesi -- 20 Puan 
+  Oyun İsminin Belirlenmesi  -- 5 Puan 
+  GitHub Repository Açılacak -- 5  Puan 
+  Oynun Örnek Hikayeler Yazılması  -- 30 Puan
+  Giriş Demosu Videosu Oluşturulması  -- 30 Puan 
+  Giriş demo ile örnek firt person scritpleri -- 10 Puan
+  Oyun hikayesine uygun görevler Belirlenmesi -- 10 Puan 
+  Konuya uygun low poly assetler Belirlenmesi  -- 10 Puan 
+  Hikayenin güncellenmesi ve görevler ile birleştirilmesi
+  
+ 
+  
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 1 Sprint 120 , 2 spirite 150 ve 3 sprite 180 backlogdan oluşacaktır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da görevler altı ana başlığa bölünmüştür. Oyun konusu (Yeşil), tasarım (sarı), story (turuuncu), kodlama(kırmızı), müzik(pembe), test (mor)  renk ile temsil etmektedir.
