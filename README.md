@@ -36,8 +36,9 @@ Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. O
 
 ## Product Backlog URL
 
-[1 Hikaye ](https://trello.com/invite/b/HVViR8qn/12655a4920e5259e29b1896b2c25d4eb/project-mars)
-[2 Hikaye ](https://trello.com/invite/b/eRTGbkXg/5405a50a836d07c208a07cae1ff255ff/grup-68)
+[Hikaye ](https://trello.com/invite/b/HVViR8qn/12655a4920e5259e29b1896b2c25d4eb/project-ares)
+[Sprint 1](https://trello.com/invite/b/eRTGbkXg/5405a50a836d07c208a07cae1ff255ff/grup-68-sprint-1)
+[Sprint 2](https://trello.com/invite/b/SeEf2xCT/11aa5019b85c97f11a8f0e4316439739/grup-68-sprint-2)
 
 ---
 
@@ -90,13 +91,11 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
  
   ![trellosprite1](https://user-images.githubusercontent.com/37614581/167314351-2e9e0b07-d1d6-47e6-b93d-9b2cf2a13ef7.png)
 
-
--**Diğer Notlar**:
-
-
-
 ---
 
-# Sprint 3
+# Sprint 2
+
 - N/A
 ---
+# Sprint 3
+- N/A
