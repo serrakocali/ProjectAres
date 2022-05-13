@@ -99,6 +99,7 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
   - İlk Beş Görevin Belirlenmesi:
   - İlk Beş Görevin Unity'e Aktarılması ve Kodlanması:
   - Oyun İçi Assetlerin Belirlenmesi ve Unity'e Aktarılması: 
+  - Unity Colobration Sisteminin Kurulması:
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 1. Sprint 120 , 2. Sprint 150 ve 3. Sprint 180 backlogdan oluşacaktır. 3 sprint'e bölündüğünde ikinci spritte 150 puanın tamamlanmasına karar verildi.
 
