@@ -94,12 +94,16 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
-  - Oyunun İçi Seslerin Belirlenmesi:
   - Hikayenin Son Haline Getirilmesi:
-  - İlk Beş Görevin Belirlenmesi:
-  - İlk Beş Görevin Unity'e Aktarılması ve Kodlanması:
-  - Oyun İçi Assetlerin Belirlenmesi ve Unity'e Aktarılması: 
-  - Unity Colobration Sisteminin Kurulması:
+  - Plastic SCM Sisteminin Kurulması:
+  - Ana Görevlerin Belirlenmesi:
+  - Oyun İçi Assetlerin Belirlenmesi ve Unity'e Aktarılması:
+  - Oyun İçi Seslerin Belirlenmesi:
+  - Ön Lob ve Parietal Lob Görevlerinin Yazılması:
+  - Oyun İçin Konuşma Metninin Oluşturulması:
+  - Gemi İç Tasarımın Yapılması:
+  - Ön Lobda Alt Görevlerden 2 Tanesinin Yapılması:
+  - Oyun İçi Seslendirmenin Kayıt Alınması:
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 1. Sprint 120 , 2. Sprint 150 ve 3. Sprint 180 backlogdan oluşacaktır. 3 sprint'e bölündüğünde ikinci spritte 150 puanın tamamlanmasına karar verildi.
 
