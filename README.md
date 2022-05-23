@@ -131,7 +131,8 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 [Toplantı notları]()
 
 - **Sprint Retrospective:**
- 
+ ![2 sprint retrospective](https://user-images.githubusercontent.com/37614581/169855986-16a5161e-a40c-402c-b809-6b737078fe0b.PNG)
+
 
 ---
 # Sprint 3
