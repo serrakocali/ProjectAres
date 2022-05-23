@@ -128,7 +128,7 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
   
 - **Sprint Review**: 
 Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları ile kararları google dokümanlarda tutulmuştur: 
-[Toplantı notları]()
+[Toplantı notları](https://docs.google.com/document/d/1VRGzblNDaGvqF1qRsIUjXeQp-ztWPRrn7CtW85GoKfc/edit?usp=sharing)
 
 - **Sprint Retrospective:**
  ![2 sprint retrospective](https://user-images.githubusercontent.com/37614581/169855986-16a5161e-a40c-402c-b809-6b737078fe0b.PNG)
