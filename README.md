@@ -133,6 +133,13 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 
   ![Ekran Görüntüsü (2)](https://user-images.githubusercontent.com/93132446/167314740-486a8419-2ad6-485e-9bd3-b6b7105a5fe1.png)
   ![Ekran Görüntüsü (3)](https://user-images.githubusercontent.com/93132446/167314741-1dbe4b53-4d01-4418-af7f-4201335115a5.png)
+  ![Ekran Görüntüsü (4)](https://user-images.githubusercontent.com/33380543/169983135-6db4ae25-fc15-40cc-98f0-da050427f3bf.jpeg)
+  ![Ekran Görüntüsü (5)](https://user-images.githubusercontent.com/33380543/169983213-306206c0-1b4c-492d-a22e-d5fd1d7141d3.jpeg)
+  ![Ekran Görüntüsü (6)](https://user-images.githubusercontent.com/33380543/169983220-b26e80e9-d689-4364-9629-35dcb313e09b.jpeg)
+  ![Ekran Görüntüsü (7)](https://user-images.githubusercontent.com/33380543/169983228-32c05cb5-8160-4da0-9477-4e4e56e1996f.jpeg)
+  ![Ekran Görüntüsü (8)](https://user-images.githubusercontent.com/33380543/169983262-228422df-c46d-4d6b-a309-612023b0bf4a.jpeg)
+  ![Ekran Görüntüsü (9)](https://user-images.githubusercontent.com/33380543/169983269-292596c7-096b-4003-826e-604692091d6a.jpeg)
+
   
 - **Sprint Review**: 
 Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları ile kararları google dokümanlarda tutulmuştur: 
