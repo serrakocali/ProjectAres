@@ -125,14 +125,11 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 ![done](https://user-images.githubusercontent.com/37614581/169874326-eafeadfa-d2d1-4bc1-9e7d-379318c7134e.PNG)
 
 - **Ürün Durumu**: 
-- Hikaye: [Hikaye Dosyası](https://docs.google.com/document/d/1ZYgR8gZJKnhIHASaOSdAfAhn8IDZIPiv-IppHnp7_ow/edit?usp=sharing)
 - Voice Lines: [Voice Lines Dosyası](https://docs.google.com/document/d/1ve0UYiTwZvUY_OffInGvrStxHFFd0oZ97O1DQcuZ5Ew/edit?usp=sharing)
 - Ekran görüntüleri: 
 
   [Oynanış videosu](https://www.youtube.com/watch?v=dvnDMmFT-ag)
 
-  ![Ekran Görüntüsü (2)](https://user-images.githubusercontent.com/93132446/167314740-486a8419-2ad6-485e-9bd3-b6b7105a5fe1.png)
-  ![Ekran Görüntüsü (3)](https://user-images.githubusercontent.com/93132446/167314741-1dbe4b53-4d01-4418-af7f-4201335115a5.png)
   ![Ekran Görüntüsü (4)](https://user-images.githubusercontent.com/33380543/169983135-6db4ae25-fc15-40cc-98f0-da050427f3bf.jpeg)
   ![Ekran Görüntüsü (5)](https://user-images.githubusercontent.com/33380543/169983213-306206c0-1b4c-492d-a22e-d5fd1d7141d3.jpeg)
   ![Ekran Görüntüsü (6)](https://user-images.githubusercontent.com/33380543/169983220-b26e80e9-d689-4364-9629-35dcb313e09b.jpeg)
@@ -151,4 +148,26 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 
 ---
 # Sprint 3
-- N/A
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 1. Sprint 120 , 2. Sprint 150 ve 3. Sprint 180 backlogdan oluşacaktır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da görevler altı ana başlığa bölünmüştür. Oyun konusu (Yeşil), tasarım (sarı), story (turuuncu), kodlama(kırmızı), müzik(pembe), test (mor)  renk ile temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Discord ve whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği [google dökuman linki](https://docs.google.com/document/d/1aNJybPwjHV-bPgouuEq2p30KuOxXysPTYfKH8azSSIo/edit?usp=sharing) olarak paylaşılmıştır.
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+- **Ürün Durumu**: 
+
+- **Sprint Review**: 
+Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları ile kararları google dokümanlarda tutulmuştur: 
+[Toplantı notları]()
+
+- **Sprint Retrospective:**
+ ![2 sprint retrospective]()
