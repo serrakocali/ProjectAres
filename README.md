@@ -175,7 +175,7 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği [google dökuman linki](https://docs.google.com/document/d/1aNJybPwjHV-bPgouuEq2p30KuOxXysPTYfKH8azSSIo/edit?usp=sharing) olarak paylaşılmıştır.
 
 - **Sprint board update**: Sprint board screenshotları: 
-  -Todo
+  - Todo
 ![sprint3-Todo](https://user-images.githubusercontent.com/37614581/172207718-8273e7c3-d4a2-4b9e-82d3-4c0a043b1ff2.png)
 ![sprint3-Todo2](https://user-images.githubusercontent.com/37614581/172207742-ecc9dade-b07c-4c87-a9ec-c260ecde41b1.png)
   - In progress
