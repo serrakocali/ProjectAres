@@ -16,7 +16,7 @@ Oyun ve Uygulama Akademisi Grup 68
 
 PROJECT: ARES
 
-## Ürün Dosyası ve Çıktısı Drive Linki [https://drive.google.com/drive/folders/1ZUF6BASyZjJgAjiHemf9TeP1n93_vbsZ?usp=sharing]
+## Ürün Dosyası ve Çıktısı Drive Linki (https://drive.google.com/drive/folders/1ZUF6BASyZjJgAjiHemf9TeP1n93_vbsZ?usp=sharing)
 
 ## Ürün Açıklaması
 
