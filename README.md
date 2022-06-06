@@ -16,6 +16,8 @@ Oyun ve Uygulama Akademisi Grup 68
 
 PROJECT: ARES
 
+## Ürün Dosyası ve Çıktısı Drive Linki [https://drive.google.com/drive/folders/1ZUF6BASyZjJgAjiHemf9TeP1n93_vbsZ?usp=sharing]
+
 ## Ürün Açıklaması
 
 Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. Oyuncular Mars'ta hayatta kalmaya çalışırken gezegeni keşfedip kaçış yolu bulmaya çalışacaktır. Yarı açık dünyada karakter gezegeni keşfetmek için farklı elementlerle etkileşime geçebilecek, kendine hayatta kalmak için bir strateji belirleyebilecektir. Oyun oynanışı sırasında stealth ya da aksiyon ağırlıklı devam etmek oyuncunun kendi oynayış stiline bırakılmıştır. Oyuncu isterse kendine bir alan belirleyip hayatta kalması için gerekli bitkileri yetiştirebilecek isterse savaşçı bir göçebe olarak düşmanlarıyla karşılaşabilecektir. 
