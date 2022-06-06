@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 57867bbaab23bb8458f59a1de575925c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Border
+    100004: BorderAngle10
+    100006: BorderAngle20
+    100008: BorderAngle30
+    100010: OldWheelRed
+    100012: OldWheels
+    100014: OldWheelWhite
+    100016: Road
+    100018: Collider
+    100020: Collider 1
+    100022: Collider 2
+    100024: Arrow
+    100026: ArrowDouble
+    100028: Garage
+    100030: GarageDoor
+    100032: GarageWall
+    100034: Ground
+    100036: AdBoard
+    100038: AdBoard2
+    100040: AdBoard3
+    100042: AdBoard4
+    100044: FinishArc
+    100046: AsphaltField
+    100048: BetonBorder
+    100050: Column
+    100052: Column001
+    100054: Cone
+    100056: Tribune
+    100058: TribuneBench
+    100060: Plane001
+    100062: Plane002
+    100064: Rock
+    100066: Rock2
+    100068: Tree
+    100070: Tree2
+    100072: Tree3
+    100074: RoadForMainMenu
+    400000: //RootNode
+    400002: Border
+    400004: BorderAngle10
+    400006: BorderAngle20
+    400008: BorderAngle30
+    400010: OldWheelRed
+    400012: OldWheels
+    400014: OldWheelWhite
+    400016: Road
+    400018: Collider
+    400020: Collider 1
+    400022: Collider 2
+    400024: Arrow
+    400026: ArrowDouble
+    400028: Garage
+    400030: GarageDoor
+    400032: GarageWall
+    400034: Ground
+    400036: AdBoard
+    400038: AdBoard2
+    400040: AdBoard3
+    400042: AdBoard4
+    400044: FinishArc
+    400046: AsphaltField
+    400048: BetonBorder
+    400050: Column
+    400052: Column001
+    400054: Cone
+    400056: Tribune
+    400058: TribuneBench
+    400060: Plane001
+    400062: Plane002
+    400064: Rock
+    400066: Rock2
+    400068: Tree
+    400070: Tree2
+    400072: Tree3
+    400074: RoadForMainMenu
+    2300000: //RootNode
+    2300002: Border
+    2300004: BorderAngle10
+    2300006: BorderAngle20
+    2300008: BorderAngle30
+    2300010: OldWheelRed
+    2300012: OldWheels
+    2300014: OldWheelWhite
+    2300016: Road
+    2300018: Collider
+    2300020: Collider 1
+    2300022: Collider 2
+    2300024: Arrow
+    2300026: ArrowDouble
+    2300028: Garage
+    2300030: GarageDoor
+    2300032: GarageWall
+    2300034: Ground
+    2300036: AdBoard
+    2300038: AdBoard2
+    2300040: AdBoard3
+    2300042: AdBoard4
+    2300044: FinishArc
+    2300046: AsphaltField
+    2300048: BetonBorder
+    2300050: Column
+    2300052: Column001
+    2300054: Cone
+    2300056: Tribune
+    2300058: TribuneBench
+    2300060: Plane001
+    2300062: Plane002
+    2300064: Rock
+    2300066: Rock2
+    2300068: Tree
+    2300070: Tree2
+    2300072: Tree3
+    2300074: RoadForMainMenu
+    3300000: //RootNode
+    3300002: Border
+    3300004: BorderAngle10
+    3300006: BorderAngle20
+    3300008: BorderAngle30
+    3300010: OldWheelRed
+    3300012: OldWheels
+    3300014: OldWheelWhite
+    3300016: Road
+    3300018: Collider
+    3300020: Collider 1
+    3300022: Collider 2
+    3300024: Arrow
+    3300026: ArrowDouble
+    3300028: Garage
+    3300030: GarageDoor
+    3300032: GarageWall
+    3300034: Ground
+    3300036: AdBoard
+    3300038: AdBoard2
+    3300040: AdBoard3
+    3300042: AdBoard4
+    3300044: FinishArc
+    3300046: AsphaltField
+    3300048: BetonBorder
+    3300050: Column
+    3300052: Column001
+    3300054: Cone
+    3300056: Tribune
+    3300058: TribuneBench
+    3300060: Plane001
+    3300062: Plane002
+    3300064: Rock
+    3300066: Rock2
+    3300068: Tree
+    3300070: Tree2
+    3300072: Tree3
+    3300074: RoadForMainMenu
+    4300000: Plane002
+    4300002: Plane001
+    4300004: Object001
+    4300006: Road
+    4300008: OldWheels
+    4300010: OldWheelWhite
+    4300012: OldWheelRed
+    4300014: BorderAngle20
+    4300016: BorderAngle30
+    4300018: BorderAngle10
+    4300020: Border
+    4300022: Collider
+    4300024: Collider
+    4300026: Collider
+    4300028: Garage
+    4300030: GarageWall
+    4300032: GarageDoor
+    4300034: Arrow
+    4300036: ArrowDouble
+    4300038: Ground
+    4300040: FinishArc
+    4300042: AdBoard
+    4300044: AdBoard2
+    4300046: AdBoard3
+    4300048: AdBoard4
+    4300050: Tribune
+    4300052: TribuneBench
+    4300054: Cone
+    4300056: AsphaltField
+    4300058: BetonBorder
+    4300060: Column
+    4300062: Column001
+    4300064: Tree
+    4300066: Tree2
+    4300068: Tree3
+    4300070: Rock
+    4300072: Rock2
+    4300074: RoadForMainMenu
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 2421da10838153f48ac27805355771f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 919974338e4c4ca4f8e12eb0a7480903, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
