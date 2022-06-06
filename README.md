@@ -154,7 +154,7 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
   - UX/UI Tasarımı Tamamlanması: 20 (Tamamlandı)
-  - Çevresel Uyum Hikate Birleştirme: 20 (Tamamlandı)
+  - Çevresel Uyum Hikaye Birleştirme: 20 (Tamamlandı)
   - Voice Lineların Kayıt Alınması: 15 (Tamamlandı)
   - Ses Efektleri: 10 (Tamamlandı)
   - Bilgi Notlarının Oluşturulması ve Görevlere Entegre Edilmesi: 10 (Tamamlandı)
@@ -188,7 +188,7 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 
 - **Sprint Review**: 
 Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları ile kararları google dokümanlarda tutulmuştur: 
-[Toplantı notları]()
+[Toplantı notları](https://docs.google.com/document/d/19mRM2iXb4OWGA7ubeqpbjVCXMZuu6Razwb0OyksJSCg/edit?usp=sharing)
 
 - **Sprint Retrospective:**
 ![3 Sprint Restrospective](https://user-images.githubusercontent.com/37614581/172207861-6fb1a1dd-9b7d-4e1b-b2a4-6ebbec7694ea.png)
