@@ -16,6 +16,7 @@ Oyun ve Uygulama Akademisi Grup 68
 
 PROJECT: ARES
 
+## Açıklama :  GitHUB LFS sadece free üyeler için 2 GB izni verdiğinden için ve  bizim dosyamız 5.5 GB olduğundan dolayı ürün dosyalrı grup  drivena atılmıştır. 
 ## Ürün Dosyası ve Çıktısı Drive Linki (https://drive.google.com/drive/folders/1ZUF6BASyZjJgAjiHemf9TeP1n93_vbsZ?usp=sharing)
 
 ## Ürün Açıklaması
