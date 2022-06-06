@@ -175,6 +175,11 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği [google dökuman linki](https://docs.google.com/document/d/1aNJybPwjHV-bPgouuEq2p30KuOxXysPTYfKH8azSSIo/edit?usp=sharing) olarak paylaşılmıştır.
 
 - **Sprint board update**: Sprint board screenshotları: 
+![sprint3-Todo](https://user-images.githubusercontent.com/37614581/172207718-8273e7c3-d4a2-4b9e-82d3-4c0a043b1ff2.png)
+![sprint3-Todo2](https://user-images.githubusercontent.com/37614581/172207742-ecc9dade-b07c-4c87-a9ec-c260ecde41b1.png)
+![sprite3-ınprogress1](https://user-images.githubusercontent.com/37614581/172207775-161418fe-4c49-45a0-a9bc-7abd7afa9347.png)
+![sprite3-ınprogress2](https://user-images.githubusercontent.com/37614581/172207797-c4189bca-f5ca-411c-afa6-b6ab1da844a9.png)
+![sprite3-ınprogress3](https://user-images.githubusercontent.com/37614581/172207818-d9d5892c-5492-402c-ae80-e9ace0f81181.png)
 
 - **Ürün Durumu**: 
 
@@ -183,4 +188,5 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 [Toplantı notları]()
 
 - **Sprint Retrospective:**
- ![2 sprint retrospective]()
+ ![2 sprint retrospective](![3 Sprint Restrospective](https://user-images.githubusercontent.com/37614581/172207861-6fb1a1dd-9b7d-4e1b-b2a4-6ebbec7694ea.png)
+)
