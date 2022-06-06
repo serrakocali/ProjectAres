@@ -153,6 +153,18 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
+  - UX/UI Tasarımı Tamamlanması: 20 (Tamamlandı)
+  - Çevresel Uyum Hikate Birleştirme: 20 (Tamamlandı)
+  - Voice Lineların Kayıt Alınması: 15 (Tamamlandı)
+  - Ses Efektleri: 10 (Tamamlandı)
+  - Bilgi Notlarının Oluşturulması ve Görevlere Entegre Edilmesi: 10 (Tamamlandı)
+  - Yeni Seslendirme Notları Ekleme: 10 (Tamamlandı)
+  - Oyunun 1. Kullanıcı Testi: 10 (Tamamlandı)
+  - 1. Test Sonrası Kodlama Düzenlenmesi: 10 (Tamamlandı)
+  - 1. Test Sonrası Tasarım Düzenlenmesi: 10 (Tamamlandı)
+  - Oyunun 2. Kullanıcı Testi: 10 (Tamamlandı)
+  - Son Kontrol Yapılması ve Github Yüklenmesi: 10 (Tamamlandı)
+  - Tanıtım Videosunun Düzenlenmesi: 15 (Tamamlandı)
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 450 puanlık backlog bulunmaktadır. 1. Sprint 120 , 2. Sprint 150 ve 3. Sprint 180 backlogdan oluşacaktır. 3 sprint'e bölündüğünde son sprint'i 180 puan olmasına karar verildi. 
 
