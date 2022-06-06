@@ -16,7 +16,6 @@ Oyun ve Uygulama Akademisi Grup 68
 
 PROJECT: ARES
 
-## Açıklama :  GitHUB LFS sadece free üyeler için 2 GB izni verdiğinden için ve  bizim dosyamız 5.5 GB olduğundan dolayı ürün dosyalrı grup  drivena atılmıştır. 
 ## Ürün Dosyası ve Çıktısı Drive Linki (https://drive.google.com/drive/folders/1ZUF6BASyZjJgAjiHemf9TeP1n93_vbsZ?usp=sharing)
 
 ## Ürün Açıklaması
@@ -188,6 +187,11 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 ![sprite3-ınprogress3](https://user-images.githubusercontent.com/37614581/172207818-d9d5892c-5492-402c-ae80-e9ace0f81181.png)
 
 - **Ürün Durumu**: 
+![Ekran Görüntüsü (10)](https://user-images.githubusercontent.com/33380543/172244262-f248cb1d-1d0a-4665-84bb-6fb0a8feb7c5.jpg)
+![Ekran Görüntüsü (11)](https://user-images.githubusercontent.com/33380543/172244265-c518adf9-511b-4927-84b1-c2c1b7de8fda.jpg)
+![Ekran Görüntüsü (12)](https://user-images.githubusercontent.com/33380543/172244266-44b6fb89-e2b9-42bf-8b94-57e8fbf9e518.jpg)
+![Ekran Görüntüsü (13)](https://user-images.githubusercontent.com/33380543/172244268-30198c5e-8bfb-4b24-b3d3-f2d125ed21ff.jpg)
+
 
 - **Sprint Review**: 
 Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları ile kararları google dokümanlarda tutulmuştur: 
