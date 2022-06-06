@@ -39,6 +39,7 @@ Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. O
 - [Hikaye ](https://trello.com/invite/b/HVViR8qn/12655a4920e5259e29b1896b2c25d4eb/project-ares)
 - [Sprint 1](https://trello.com/invite/b/eRTGbkXg/5405a50a836d07c208a07cae1ff255ff/grup-68-sprint-1)
 - [Sprint 2](https://trello.com/invite/b/SeEf2xCT/11aa5019b85c97f11a8f0e4316439739/grup-68-sprint-2)
+- [Sprint 3](https://trello.com/invite/b/iwnaqkmc/227f1ace5e017aa0c7d4ef819b637ed8/grup-68-sprint-3)
 
 ---
 
