@@ -16,6 +16,9 @@ Oyun ve Uygulama Akademisi Grup 68
 
 PROJECT: ARES
 
+#Açıklama: GİTHUB LFS sadece free üyelere 2GB hakkı izin verdiğin dolayı ve bizim dosyamız 5.5 GB olduğundan dolayı ürün dosyaları Grup Drive'na  atılmıştır. 
+## Ürün Dosyası ve Çıktısı Drive Linki (https://drive.google.com/drive/folders/1ZUF6BASyZjJgAjiHemf9TeP1n93_vbsZ?usp=sharing)
+
 ## Ürün Açıklaması
 
 Project: Ares mobil cihazlar için geliştirilmiş 3B aksiyon/macera oyunudur. Oyuncular Mars'ta hayatta kalmaya çalışırken gezegeni keşfedip kaçış yolu bulmaya çalışacaktır. Yarı açık dünyada karakter gezegeni keşfetmek için farklı elementlerle etkileşime geçebilecek, kendine hayatta kalmak için bir strateji belirleyebilecektir. Oyun oynanışı sırasında stealth ya da aksiyon ağırlıklı devam etmek oyuncunun kendi oynayış stiline bırakılmıştır. Oyuncu isterse kendine bir alan belirleyip hayatta kalması için gerekli bitkileri yetiştirebilecek isterse savaşçı bir göçebe olarak düşmanlarıyla karşılaşabilecektir. 
@@ -185,6 +188,11 @@ Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları il
 ![sprite3-ınprogress3](https://user-images.githubusercontent.com/37614581/172207818-d9d5892c-5492-402c-ae80-e9ace0f81181.png)
 
 - **Ürün Durumu**: 
+![Ekran Görüntüsü (10)](https://user-images.githubusercontent.com/33380543/172244262-f248cb1d-1d0a-4665-84bb-6fb0a8feb7c5.jpg)
+![Ekran Görüntüsü (11)](https://user-images.githubusercontent.com/33380543/172244265-c518adf9-511b-4927-84b1-c2c1b7de8fda.jpg)
+![Ekran Görüntüsü (12)](https://user-images.githubusercontent.com/33380543/172244266-44b6fb89-e2b9-42bf-8b94-57e8fbf9e518.jpg)
+![Ekran Görüntüsü (13)](https://user-images.githubusercontent.com/33380543/172244268-30198c5e-8bfb-4b24-b3d3-f2d125ed21ff.jpg)
+
 
 - **Sprint Review**: 
 Alınan kararlar: Düzenli Olarak toplantı yapılmış ve toplantı notları ile kararları google dokümanlarda tutulmuştur: 
